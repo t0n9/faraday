@@ -48,3 +48,5 @@ Already a user and have a question or bug report? Please check out our [FAQ](htt
 
 Join our community! Subscribe to our [mailing list](https://groups.google.com/forum/#!forum/faradaysec) or find us on Twitter [@faradaysec] (https://twitter.com/faradaysec) or IRC channel #faraday-dev in [freenode](ircs://irc.freenode.net/faraday-dev).
 
+
+http://zone.wooyun.org/content/24797
